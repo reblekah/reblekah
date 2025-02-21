@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @reblekah
-- 👀 I’m interested in R, Python, ecological applications of machine learning, spatial ecology, and species distribution modeling
-- 🌱 I’m currently learning R and Python
+- 👋 Hi, I’m Rebekah,
+
+I am currently using STAC, SciKit, and Xarray to analyze satellite imagery and build methodology and frameworks to detect invasive annual grasses and build habitat suitability models using high resolution climate data.
+
+I'm looking to collaborate on machine learning or AI-based applications of these detection algorithms or advanced methods for invasive species detection or identification
 
 <!---
 reblekah/reblekah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
